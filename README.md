@@ -19,6 +19,7 @@ The goal is to solve real business problems including:
 ---
 
 # Dataset
+[🔗 Download Complete Raw Dataset (Google Drive)](https://drive.google.com/drive/folders/1K2uTG0kpPqZ65PhVhQNTFgyfEqES_dWt)
 
 Tables
 
