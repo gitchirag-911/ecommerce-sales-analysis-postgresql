@@ -91,7 +91,7 @@ ORDER BY 	op.payment_value  DESC;
 
 ### Output
 
-![Refund Tracking](results/problem01.png)
+![Refund Tracking](results/problem_1.png)
 
 ---
 
@@ -118,7 +118,7 @@ ORDER BY 	EXTRACT(YEAR FROM(o.order_purchase_timestamp)),
 ```
 ### Output
 
-![Revenue](results/problem02.png)
+![Revenue](results/problem_2.png)
 
 ---
 
@@ -151,7 +151,7 @@ FROM 		latest_purchase
 ```
 ### Output
 
-![Revenue](results/problem02.png)
+![RFM](results/problem_3.png)
 
 ---
 
@@ -194,7 +194,7 @@ ORDER BY 1, 2;
 
 ### Output
 
-![Customer](results/problem04.png)
+![Cohort Retention](results/problem_4.png)
 
 ---
 
@@ -230,7 +230,7 @@ ORDER BY order_date;
 
 ### Output
 
-![Product](results/problem05.png)
+![7-Day Avg](results/problem_5.png)
 
 ---
 
